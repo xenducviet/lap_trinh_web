@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wtbc", "lap_trinh_web\wtbc.csproj", "{47F32A5D-9B6D-46EB-92C5-E9CDF31CB1CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F32A5D-9B6D-46EB-92C5-E9CDF31CB1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F32A5D-9B6D-46EB-92C5-E9CDF31CB1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F32A5D-9B6D-46EB-92C5-E9CDF31CB1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F32A5D-9B6D-46EB-92C5-E9CDF31CB1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C6EF90F-2FCC-4128-B02E-C01A51106AA4}
+	EndGlobalSection
+EndGlobal
